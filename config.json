@@ -1,0 +1,6 @@
+{
+    "queries": [
+        { "fields": ["title", "topic"], "query": "Tagesschau" },
+        { "fields": ["title", "topic"], "query": "frontal21" }
+    ]
+}
